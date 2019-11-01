@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/modal_weatherapp/static/css/main.3b5eaaad.chunk.css",
+    "main.js": "/modal_weatherapp/static/js/main.66c6a59a.chunk.js",
+    "main.js.map": "/modal_weatherapp/static/js/main.66c6a59a.chunk.js.map",
+    "runtime-main.js": "/modal_weatherapp/static/js/runtime-main.d68d33cf.js",
+    "runtime-main.js.map": "/modal_weatherapp/static/js/runtime-main.d68d33cf.js.map",
+    "static/js/2.b143e3e8.chunk.js": "/modal_weatherapp/static/js/2.b143e3e8.chunk.js",
+    "static/js/2.b143e3e8.chunk.js.map": "/modal_weatherapp/static/js/2.b143e3e8.chunk.js.map",
+    "index.html": "/modal_weatherapp/index.html",
+    "precache-manifest.ac3b9f3f9cfcb8f5ca9efd1149d1d9a1.js": "/modal_weatherapp/precache-manifest.ac3b9f3f9cfcb8f5ca9efd1149d1d9a1.js",
+    "service-worker.js": "/modal_weatherapp/service-worker.js",
+    "static/css/main.3b5eaaad.chunk.css.map": "/modal_weatherapp/static/css/main.3b5eaaad.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d68d33cf.js",
+    "static/js/2.b143e3e8.chunk.js",
+    "static/css/main.3b5eaaad.chunk.css",
+    "static/js/main.66c6a59a.chunk.js"
+  ]
+}
