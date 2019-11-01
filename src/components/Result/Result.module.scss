@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400&display=swap');
+
+
+.content {
+    width: 90%;
+    margin: 0 auto;
+    font-family: 'Raleway', sans-serif;
+    color: rgb(9, 71, 9);
+}
+
+.intro {
+    text-align: center;
+    font-size: 1.2rem;
+    margin-top: 25px;
+}
+
+.content .mainInfo {
+    width: 100%;
+}
+
+.mainInfo {
+    max-width: 100%;
+    margin: 30px auto;
+}
+
+.description {
+    text-transform: uppercase;
+    font-size: 3.4rem;
+    margin-top: 30px;
+}
+
+.icon {
+    margin-top: 25px;
+}
+
+.temp {
+    font-size: 3.9rem;
+    font-weight: 300;
+}
+
+.tempMinMax {
+    font-size: 1.1em;
+}
+
+
+.secondaryInfo {
+    width: 90%;
+    margin: 5px auto;
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 26px;
+}
+
+.secondaryInfo p {
+    padding: 5px 0;
+}
+
+.first,
+.second {
+    flex-basis: 50%;
+    text-align: left;
+}
+
+.second {
+    text-align: end;
+}
+
+@media (max-width: 530px) {
+    .content {
+        width: 95%;
+    }
+
+    .description {
+        font-size: 2.4em;
+
+    }
+
+    .temp {
+        font-size: 2.9rem;
+    }
+}
+
+@media (max-width: 410px) {
+    .content {
+        width: 98%;
+    }
+
+    .description {
+        font-size: 2.4em;
+
+    }
+
+    .temp {
+        font-size: 2.4rem;
+    }
+
+    .secondaryInfo {
+        width: 98%;
+    }
+}

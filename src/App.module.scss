@@ -1,0 +1,22 @@
+.wrapper {
+    width: 500px;
+    height: 520px;
+    background-repeat: no-repeat;
+    margin: auto;
+    margin-top: 40px;
+    box-shadow: 5px 28px 40px -7px rgba(#175a3e, .5);
+}
+
+@media (max-width: 530px) {
+    .wrapper {
+        width: 400px;
+
+    }
+}
+
+@media (max-width: 410px) {
+    .wrapper {
+        width: 340px;
+
+    }
+}
