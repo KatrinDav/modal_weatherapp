@@ -4,7 +4,6 @@ import styles from "./Result.module.scss";
 const Result = props => {
   const {
     city,
-    icon,
     temp,
     sunrise,
     sunset,
@@ -45,13 +44,7 @@ const Result = props => {
           <p className={styles.tempMinMax}>
             {tempMin} &#176;/{tempMax} &#176;
           </p>
-          {/* <p>
-            <img
-              className={styles.icon}
-              src={`http://openweathermap.org/img/w/${icon}.png`}
-              alt="ikonka"
-            />
-          </p> */}
+
         </div>
 
         <div className={styles.secondaryInfo}>
